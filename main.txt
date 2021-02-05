@@ -1,3 +1,5 @@
 Git node js project
 
-added changes to local branch add more instructions
+ Added a comment using sample branch
+ i have added some comments in sample branch
+
